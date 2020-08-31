@@ -19,3 +19,6 @@
 <img align="left" alt="JavaScript" width="26px" src="https://github.com/TheOtowngman/TheOtowngman/blob/master/images/js.png"/>
 <img align="left" alt="PHP" width="26px" src="https://github.com/TheOtowngman/TheOtowngman/blob/master/images/php.png"/>
 <img align="left" alt="Amazon Web Services" width="26px" src="https://github.com/TheOtowngman/TheOtowngman/blob/master/images/aws.png"/>
+
+### Connect With Me!
+<a href="https://www.linkedin.com/in/richard-g-thompson/"><img align="left" alt="LinkedIn" width="26px" src="https://github.com/TheOtowngman/TheOtowngman/blob/master/images/linkedin.png"></a>
