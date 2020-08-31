@@ -6,14 +6,14 @@
 - :wrench: A love for all things cars, with a career in automotive software development being a goal
 
 ### Tools & Languages:
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/TheOtowngman/TheOtowngman/blob/master/images/vsc.png"/>]
-[<img align="left" alt="Unity" width="26px" src="https://github.com/TheOtowngman/TheOtowngman/blob/master/images/unity.png"/>]
-[<img align="left" alt="Wordpress" width="26px" src="https://github.com/TheOtowngman/TheOtowngman/blob/master/images/wordpress.png"/>]
-[<img align="left" alt="Android" width="26px" src="https://github.com/TheOtowngman/TheOtowngman/blob/master/images/android.png"/>]
-[<img align="left" alt="OpenFrameworks" width="26px" src="https://github.com/TheOtowngman/TheOtowngman/blob/master/images/openframeworks.png"/>]
-[<img align="left" alt="Arduino" width="26px" src="https://github.com/TheOtowngman/TheOtowngman/blob/master/images/arduino.png"/>]
-[<img align="left" alt="C++" width="26px" src="https://github.com/TheOtowngman/TheOtowngman/blob/master/images/cpp.png"/>]
-[<img align="left" alt="C#" width="26px" src="https://github.com/TheOtowngman/TheOtowngman/blob/master/images/csharp.png"/>]
-[<img align="left" alt="HTML5" width="26px" src="https://github.com/TheOtowngman/TheOtowngman/blob/master/images/html.png"/>]
-[<img align="left" alt="CSS3" width="26px" src="https://github.com/TheOtowngman/TheOtowngman/blob/master/images/css.png"/>]
-[<img align="left" alt="JavaScript" width="26px" src="https://github.com/TheOtowngman/TheOtowngman/blob/master/images/js.png"/>]
+<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/TheOtowngman/TheOtowngman/blob/master/images/vsc.png"/>
+<img align="left" alt="Unity" width="26px" src="https://github.com/TheOtowngman/TheOtowngman/blob/master/images/unity.png"/>
+<img align="left" alt="Wordpress" width="26px" src="https://github.com/TheOtowngman/TheOtowngman/blob/master/images/wordpress.png"/>
+<img align="left" alt="Android" width="26px" src="https://github.com/TheOtowngman/TheOtowngman/blob/master/images/android.png"/>
+<img align="left" alt="OpenFrameworks" width="26px" src="https://github.com/TheOtowngman/TheOtowngman/blob/master/images/openframeworks.png"/>
+<img align="left" alt="Arduino" width="26px" src="https://github.com/TheOtowngman/TheOtowngman/blob/master/images/arduino.png"/>
+<img align="left" alt="C++" width="26px" src="https://github.com/TheOtowngman/TheOtowngman/blob/master/images/cpp.png"/>
+<img align="left" alt="C#" width="26px" src="https://github.com/TheOtowngman/TheOtowngman/blob/master/images/csharp.png"/>
+<img align="left" alt="HTML5" width="26px" src="https://github.com/TheOtowngman/TheOtowngman/blob/master/images/html.png"/>
+<img align="left" alt="CSS3" width="26px" src="https://github.com/TheOtowngman/TheOtowngman/blob/master/images/css.png"/>
+<img align="left" alt="JavaScript" width="26px" src="https://github.com/TheOtowngman/TheOtowngman/blob/master/images/js.png"/>
