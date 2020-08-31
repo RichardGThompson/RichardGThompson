@@ -17,3 +17,5 @@
 <img align="left" alt="HTML5" width="26px" src="https://github.com/TheOtowngman/TheOtowngman/blob/master/images/html.png"/>
 <img align="left" alt="CSS3" width="26px" src="https://github.com/TheOtowngman/TheOtowngman/blob/master/images/css.png"/>
 <img align="left" alt="JavaScript" width="26px" src="https://github.com/TheOtowngman/TheOtowngman/blob/master/images/js.png"/>
+<img align="left" alt="PHP" width="26px" src="https://github.com/TheOtowngman/TheOtowngman/blob/master/images/php.png"/>
+<img align="left" alt="Amazon Web Services" width="26px" src="https://github.com/TheOtowngman/TheOtowngman/blob/master/images/aws.png"/>
