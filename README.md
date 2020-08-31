@@ -6,7 +6,7 @@
 - :wrench: A love for all things cars, with a career in automotive software development being a goal
 
 ### Tools & Languages:
-[<img align="left" alt="Visual Studio Code" width="26px" src="images/vsc.png" />]
+[<img align="left" alt="Visual Studio Code" width="26px" src="url(/images/vsc.png)" />]
 [<img align="left" alt="Unity" width="26px" src="/images/unity.png" />]
 [<img align="left" alt="Wordpress" width="26px" src="/images/wordpress.png" />]
 [<img align="left" alt="Android" width="26px" src="/images/android.png" />]
