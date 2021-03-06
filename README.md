@@ -1,9 +1,8 @@
 ### Hello there, I'm Richard!
 #### Student at Carleton University studying Interactive Multimedia Design
 
-- :mortar_board: Pursuing a degree in Interactive Multimedia Design, focusing on software development
-- :computer: Currently working as a Web Application Developer at Intrinsec Security
-- :wrench: A love for all things cars, with a career in automotive software development being a goal
+- Pursuing a degree in Interactive Multimedia Design, focusing on software development
+- Currently working as a Web Application Developer at Intrinsec Security
 
 ### Languages & Tools:
 <img align="left" alt="Python" width="26px" src="https://github.com/TheOtowngman/TheOtowngman/blob/master/images/python.png"/>
